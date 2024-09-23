@@ -1,3 +1,5 @@
+# RWKV6_7B_V2.1 has a score of 5.11 on MT-Bench
+
 # LLM Judge
 | [Paper](https://arxiv.org/abs/2306.05685) | [Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) |
 
